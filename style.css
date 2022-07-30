@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+button {
+  font-size: 20px;
+  padding: 5px 10px;
+}
